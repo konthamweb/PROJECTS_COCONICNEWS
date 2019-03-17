@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-
-<?php 
-echo "string";
- ?>
-=======
 <?php
 /**
  * CodeIgniter
