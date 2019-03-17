@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> 786c6d12cc8deb1ad9ed5b10b01aa364f044c21d
 <?php
 /**
  * CodeIgniter
